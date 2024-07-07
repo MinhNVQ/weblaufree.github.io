@@ -1,0 +1,74 @@
+body {
+    font-family: "Merriweather Sans";
+    margin: 0;
+}
+h1 ,h3 ,h4, p {
+    margin: 0;
+}
+
+#m1 {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    padding: 10px 20px;
+    margin-bottom: 0;
+}
+#m1 h1 {
+    margin-bottom: 10px;
+}
+#m6 {
+    text-align: center;
+    font-weight: 700;
+    background-color: #bdc3c7;
+    line-height: 30px;
+    margin-top: 30px;
+}
+img {
+    margin: 20px auto;
+    border: 2px dashed #95a5a6;
+    border-radius: 24px;
+}
+#m2{
+    margin: 10px;
+    padding: 20px;
+}
+#m3{
+    margin: 10px;
+    padding: 20px;
+}
+#m4{
+    margin: 10px;
+    padding: 20px;
+}
+#m5{
+    margin: 10px;
+    padding: 20px;
+}
+p {
+    margin: 10px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
